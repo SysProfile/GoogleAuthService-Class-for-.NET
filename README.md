@@ -1,4 +1,4 @@
-# GoogleAuthService - VB.NET OAuth2 Implementation
+# GoogleAuthService - .NET OAuth2 Implementation
 
 Una solución completa y nativa para implementar el flujo de autenticación OAuth2 de Google en aplicaciones de escritorio .NET (Windows Forms, WPF, Console).
 
